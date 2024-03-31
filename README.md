@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kushdapush
+- 👋 Hi, I’m Kushagra Gupta
 - 👀 I’m interested in creating solutions to modern day problems using my technical expertise
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on projects that woiuld push me out of my comfort zone to try new things out and improve myself

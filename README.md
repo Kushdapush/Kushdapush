@@ -10,7 +10,7 @@ Apart from that, I'm a gaming enthusiast and a friendly conversationalist. I bel
 ---
 
 - 👨🏻‍💻 Pronouns: He/Him
-- 🔭 Currently exploring CI/CD.
+- 🔭 Currently exploring Backend Development / Network Protocols Basics.
 - ☕ Hobbies: Learning about new technologies, Making Side projects, Warthunder
 - ⚡ Fun fact: My music spectrum ranges from Kanye to Mitski
 

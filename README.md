@@ -19,6 +19,11 @@ Apart from that, I'm a gaming enthusiast and a friendly conversationalist. I bel
 ## 💼 Work Experience
 
 - ### Code For Gov Tech, Arghyam
+  - Developed a platform that provides insights and visuals on Meteorological Data over 20th Century India
+  - Created a user-friendly web portal in Next.js with interactive visuals using D3.js
+  - Built a REST API-based Express.js server, currently working on Deployment using @BlackKnight
+  - Implemented server-side caching with Redis, reducing API response time by 10x
+
 
 - ### Core Member - "BitByte" The Programming Club, IIIT Jabalpur
 

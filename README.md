@@ -19,9 +19,9 @@ Apart from that, I'm a gaming enthusiast and a friendly conversationalist. I bel
 ## 💼 Work Experience
 
 - ### Open Network for Digital Commerce, ONDC
-  • Developing an Open Sourced adapter layer to integrate various E-commerce stores with ONDC network
-  • Mapping BECKN API requests to WooCommerce APIs, and generating appropriate responses.
-  • Using Node-Express framework, implemented Logging using Winston, Unit Tests using Jest, API testing using Postman.
+  - Developing an Open Sourced adapter layer to integrate various E-commerce stores with ONDC network
+  - Mapping BECKN API requests to WooCommerce APIs, and generating appropriate responses.
+  - Using Node-Express framework, implemented Logging using Winston, Unit Tests using Jest, API testing using Postman.
 
 - ### Code For Gov Tech, Arghyam
   - Developed a platform that provides insights and visuals on Meteorological Data over 20th Century India
